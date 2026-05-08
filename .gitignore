@@ -15,15 +15,15 @@ venv/
 # `.ipynb` is the student's executed deliverable.
 
 # Lab artifacts (regenerated on every run; do not commit)
-data/pref/
-data/eval_prompts.json
-adapters/sft-mini/
-adapters/dpo/
-adapters/orpo/
-gguf/
-*.gguf
-runs/
-wandb/
+# data/pref/
+# data/eval_prompts.json
+# adapters/sft-mini/
+# adapters/dpo/
+# adapters/orpo/
+# gguf/
+# *.gguf
+# runs/
+# wandb/
 
 # HuggingFace cache (Colab + local — model weights are huge)
 .cache/
